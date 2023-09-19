@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('img.jpeg') no-repeat;
+    background: url('img.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -76,12 +76,13 @@ body {
 
 .terms label input {
     accent-color: #fff;
-    margin-right: 2px;
+    margin-right: 1px;
 }
 
 .terms a {
     color: #fff;
     text-decoration: none;
+    font-weight: 700;
 }
 
 .terms a:hover {
@@ -111,10 +112,10 @@ body {
 .register-link p a {
     color: #fff;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .register-link p a:hover {
-    text-decoration: underline;
+    text-decoration:underline;
 }
 
